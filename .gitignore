@@ -1,0 +1,15 @@
+*.wav
+*.pt
+*.pth
+*.slurm
+*.out
+*.png
+*.json
+cqt-dump/*
+baseline/*
+web/*
+*.html
+__pycache__/
+*.pyc
+genre-transfer-pipeline/*
+
