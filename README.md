@@ -22,9 +22,8 @@ pip install -r requirements.txt
 ```
 
 ## Training
-Training is identical to the original OSS versions of the software.
 
-Refer to https://github.com/descriptinc/melgan-neurips for training the `spec-reconstruction` part of the pipeline. Instead of mel spectrograms, CQT spectrograms must be used. These can be created using `wav-to-spec/wav-to-cqt.py`. 
+Refer to https://github.com/descriptinc/melgan-neurips for training the `spec-reconstruction` part of the pipeline and https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix for training the `style-transfer` system. Instead of mel spectrograms, CQT spectrograms must be used. These can be created using `wav-to-spec/wav-to-cqt.py`. 
 
 ## Running
 Running inference on a single 22.05kHZ piece of music can be done.
