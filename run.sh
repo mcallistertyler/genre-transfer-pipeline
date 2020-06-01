@@ -24,7 +24,6 @@ fi
 
 echo "Choose the genre to transfer your music track to:"
 echo "Vaporwave, Electronic, Pop, Instrumental, Hip-Hop"
-#read genre_transfer
 genre_transfer=$2
 genre_transfer="$(echo $genre_transfer | tr '[:upper:]' '[:lower:]')"
 
