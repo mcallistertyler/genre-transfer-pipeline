@@ -35,3 +35,5 @@ After pre-processing the system can be run provided there are relevant trained a
 ```bash
 ./run.sh [genre1] [genre2] #Runs the entire system, giving you the ability to perform genre transfer.
 ```
+## Licencing
+This project incorporates the MIT License for the code located in the `spec-reconstruction` directory and the BSD License for code located in the `style-transfer` directory. All other code is licenced via the MIT license.
