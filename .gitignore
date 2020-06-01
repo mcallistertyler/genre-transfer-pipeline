@@ -3,7 +3,6 @@
 *.pth
 *.slurm
 *.out
-*.png
 *.json
 cqt-dump/*
 baseline/*
