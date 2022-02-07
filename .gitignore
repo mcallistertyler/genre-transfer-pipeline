@@ -1,5 +1,4 @@
 *.wav
-*.png
 *.pt
 *.pth
 *.slurm
