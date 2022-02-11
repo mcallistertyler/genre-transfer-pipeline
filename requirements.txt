@@ -39,7 +39,7 @@ jsonpatch==1.25
 jsonpointer==2.0
 numpy==1.18.1
 Pillow==7.0.0
-protobuf==3.11.3
+protobuf==3.15.0
 pyzmq==19.0.0
 requests==2.23.0
 scipy==1.4.1
