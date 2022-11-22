@@ -38,7 +38,7 @@ idna==2.9
 jsonpatch==1.25
 jsonpointer==2.0
 numpy==1.18.1
-Pillow==7.0.0
+Pillow==9.3.0
 protobuf==3.11.3
 pyzmq==19.0.0
 requests==2.23.0
